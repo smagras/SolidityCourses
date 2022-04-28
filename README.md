@@ -1,8 +1,18 @@
 # SolidityCourses
-All my tutorials for Solidity
+All my ressources and tutorials about Solidity
 
 
-## The begining 
+## Introduction 
+
+- Welcome to web3 and solidity
+- How work a Blockchain
+
+## Tools
+
+- Remix
+- Truffle
+- Hardhat 
+- Ether and Web3.js
 
 
 ## Projects
@@ -13,4 +23,8 @@ All my tutorials for Solidity
 ## Hack and security
 
 - Reentrancy
+- Overflow and Underflow
 
+## More
+
+- Participate to an open project
