@@ -14,6 +14,21 @@ All my ressources and tutorials about Solidity
 - Hardhat 
 - Ether and Web3.js
 
+## Language
+
+- Types
+- Payable
+- Guard
+
+## Optimisation
+
+- Queue
+
+
+## Libraries
+
+- openzeppelin
+
 
 ## Projects
 
@@ -24,6 +39,7 @@ All my ressources and tutorials about Solidity
 
 - Reentrancy
 - Overflow and Underflow
+- Send Ether with selfdestruct
 
 ## More
 
