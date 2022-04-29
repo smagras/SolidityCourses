@@ -17,6 +17,7 @@ All my ressources and tutorials about Solidity
 ## Language
 
 - Types
+- Visibility
 - Payable
 - Guard
 
